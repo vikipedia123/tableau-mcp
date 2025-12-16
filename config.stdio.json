@@ -2,13 +2,13 @@
   "mcpServers": {
     "tableau": {
       "command": "node",
-      "args": ["build/index.js"],
+      "args": ["C:/Users/Vicki.Burckel/Documents/GitHub/tableau-mcp/build/index.js"],
       "env": {
         "TRANSPORT": "stdio",
-        "SERVER": "https://my-tableau-server.com",
-        "SITE_NAME": "",
-        "PAT_NAME": "",
-        "PAT_VALUE": "",
+        "SERVER": "https://10ay.online.tableau.com/",
+        "SITE_NAME": "m1ndset",
+        "PAT_NAME": "aitest",
+        "PAT_VALUE": "BvQkISqjTkOLwnLbiAnttA==:YmaMkoKWfK3Eq37SdqXHJoOqUj6DIov0",
         "DATASOURCE_CREDENTIALS": "",
         "DEFAULT_LOG_LEVEL": "debug",
         "INCLUDE_TOOLS": "",
